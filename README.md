@@ -72,6 +72,9 @@ npm install
 看下面这篇文章进行解决：
 https://www.cnblogs.com/ykbk/p/16615610.html
 
+启动时，如果出现这个问题：error:0308010C:digital envelope routines::unsupported
+看下面这篇文章进行解决：
+https://nuxtblog.work/blog/nodejserror/
 
 + 启动
 ```
